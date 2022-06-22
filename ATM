@@ -31,7 +31,6 @@ int main()
 {
 enter();
 }
-//主函数结束
 void enter()
 {
 int a;
